@@ -146,7 +146,7 @@ plt.show()
 
 
     
-![svg](pics/output_12_0.svg)
+![svg](output_12_0.svg)
     
 
 
@@ -239,7 +239,7 @@ plt.show()
 
 
     
-![svg](pics/output_25_0.svg)
+![svg](output_25_0.svg)
     
 
 
